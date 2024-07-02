@@ -1125,33 +1125,66 @@ flex-direction: column;
   width: 45%;
 }
 .secondaryImageContentOne .gridDeskColors :nth-child(1) {
-  color: orange !important;
-}
-.secondaryImageContentOne .gridDeskColors :nth-child(2) {
-  color: aqua !important;
-}
-.secondaryImageContentOne .gridDeskColors :nth-child(3) {
   color: blue !important;
 }
-.secondaryImageContentOne .gridDeskColors :nth-child(4) {
+.secondaryImageContentOne .gridDeskColors :nth-child(2) {
+  color: rgb(232, 232, 48) !important;
+}
+.secondaryImageContentOne .gridDeskColors :nth-child(3) {
   color: green !important;
+}
+.secondaryImageContentOne .gridDeskColors :nth-child(4) {
+  color: aqua !important;
 }
 .secondaryImageContentOne .gridDeskColors :nth-child(5) {
   color: red !important;
-  text-align: center;
-  width: 70%;
+ 
 }
+.secondaryImageContentOne .gridDeskColors :nth-child(6) {
+  color: rgb(99, 10, 75) !important;
+}
+
+
 .secondaryImageContentOne .gridDeskColorsSecond :nth-child(1) {
   color: red !important;
 }
 .secondaryImageContentOne .gridDeskColorsSecond :nth-child(2) {
-  color: green !important;
+  color: greenyellow  !important;
 }
 .secondaryImageContentOne .gridDeskColorsSecond :nth-child(3) {
   color: orange !important;
 }
 .secondaryImageContentOne .gridDeskColorsSecond :nth-child(4) {
   color: aqua !important;
+}
+.secondaryImageContentOne .gridDeskColorsSecond :nth-child(5) {
+  color: green !important;
+}
+.secondaryImageContentOne .gridDeskColorsSecond :nth-child(6) {
+  color: blue !important;
+}
+
+
+
+
+
+.secondaryImageContentOne .gridDeskColorsThird :nth-child(1) {
+  color: aqua !important;
+}
+.secondaryImageContentOne .gridDeskColorsThird :nth-child(2) {
+  color: orange  !important;
+}
+.secondaryImageContentOne .gridDeskColorsThird :nth-child(3) {
+  color: blue !important;
+}
+.secondaryImageContentOne .gridDeskColorsThird :nth-child(4) {
+  color: green !important;
+}
+.secondaryImageContentOne .gridDeskColorsThird :nth-child(5) {
+  color: red !important;
+}
+.secondaryImageContentOne .gridDeskColorsThird :nth-child(6) {
+  color: rgb(69, 10, 127) !important;
 }
 
 .secondaryImageContentTwo {
